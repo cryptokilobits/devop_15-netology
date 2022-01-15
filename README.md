@@ -38,3 +38,4 @@ override.tf.json
 # Игнорировать файлы конфигурации CLI
 .terraformrc
 terraform.rc
++ new line from IDE
