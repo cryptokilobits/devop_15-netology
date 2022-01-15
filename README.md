@@ -38,3 +38,6 @@ override.tf.json
 # Игнорировать файлы конфигурации CLI
 .terraformrc
 terraform.rc
+
+2 zadani + 15/01/2022
+go
